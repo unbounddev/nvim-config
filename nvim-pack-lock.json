@@ -1,0 +1,36 @@
+{
+  "plugins": {
+    "blink.cmp": {
+      "rev": "78336bc89ee5365633bcf754d93df01678b5c08f",
+      "src": "https://github.com/saghen/blink.cmp",
+      "version": "'v1.10.2'"
+    },
+    "catppuccin": {
+      "rev": "605b4603797de970e9f3a4238c199c850da03186",
+      "src": "https://github.com/catppuccin/nvim",
+      "version": "'v2.0.0'"
+    },
+    "friendly-snippets": {
+      "rev": "7a1c9f7897a4eb078b157a04c7af81e5869215b1",
+      "src": "https://github.com/rafamadriz/friendly-snippets"
+    },
+    "lualine.nvim": {
+      "rev": "221ce6b2d999187044529f49da6554a92f740a96",
+      "src": "https://github.com/nvim-lualine/lualine.nvim"
+    },
+    "nvim-tree.lua": {
+      "rev": "9a2e0006d42f292eb3ade7dfdff201a7429a780c",
+      "src": "https://github.com/nvim-tree/nvim-tree.lua.git",
+      "version": "'v1.19.0'"
+    },
+    "nvim-web-devicons": {
+      "rev": "0dc0cfb0c6858041174a53c7aa4adaf65e994b3c",
+      "src": "https://github.com/nvim-tree/nvim-web-devicons.git"
+    },
+    "tokyonight.nvim": {
+      "rev": "545d72cde6400835d895160ecb5853874fd5156d",
+      "src": "https://github.com/folke/tokyonight.nvim",
+      "version": "'v4.14.1'"
+    }
+  }
+}
